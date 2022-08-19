@@ -1,4 +1,4 @@
-# Senior Capstone
+# Senior Capstone (UMD - INST)
 
 ### Directory
 - Capstone Files: [Link](INST490-Capstone-Project-main.zip)
