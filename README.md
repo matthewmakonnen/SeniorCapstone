@@ -1,1 +1,1 @@
-# SeniorCapstone
+# Senior Capstone
