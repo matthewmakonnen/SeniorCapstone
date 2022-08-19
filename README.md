@@ -1,9 +1,9 @@
 # Senior Capstone (UMD - INST)
 
 ### Directory
-- Capstone Files: [Link](INST490-Capstone-Project-main.zip)
-- Capstone Final Presentation: [Link](Final%20Presentation.pdf)
-- Capstone Final Report: [Link](Final%20Report.pdf)
+- **Capstone Files: [Link](INST490-Capstone-Project-main.zip)
+- **Capstone Final Presentation: [Link](Final%20Presentation.pdf)
+- **Capstone Final Report: [Link](Final%20Report.pdf)
 
 ### Credits
 
