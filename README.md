@@ -1,5 +1,5 @@
 # Senior Capstone
-## Credits
+### Credits
 
   - **Grant Buttrey** - *Communication, Support, Data Cleaning* -
     [Grant-Buttrey](https://github.com/Grant-Buttrey)
